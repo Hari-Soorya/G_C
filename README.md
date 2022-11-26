@@ -1,2 +1,2 @@
 # G_C
-Intern Works
+Trainee works
